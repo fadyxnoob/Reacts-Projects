@@ -10,9 +10,14 @@ Welcome to the **React-Projects** repository! This repository showcases a collec
 
 ## 🚀 Projects
 
-### 1. 💱 [Currency Converter Application](link-to-live-demo)
-- **Source Code**: [View on GitHub](https://github.com/fadyxnoob/Reacts-Projects/tree/main/currency-converter)
+1. 💱 [Currency Converter Application](https://your-live-demo-link)
+   - **Source Code**: [View on GitHub](https://github.com/fadyxnoob/Reacts-Projects/tree/main/currency-converter)
 
+2. 🌟 [Project Title 2](https://your-live-demo-link)
+   - **Source Code**: [View on GitHub](https://github.com/your-username/React-Projects/tree/main/project-title-2)
+
+3. 🚀 [Project Title 3](https://your-live-demo-link)
+   - **Source Code**: [View on GitHub](https://github.com/your-username/React-Projects/tree/main/project-title-3)
 
 ## 📖 Getting Started
 
@@ -23,7 +28,7 @@ git clone https://github.com/your-username/React-Projects.git
 cd React-Projects/project-name
 npm install
 npm start
-```
+
 
 ## 🤝 Contributing
 
