@@ -36,12 +36,10 @@ Contributions are welcome! If you have any improvements or new projects to add, 
 If you have any questions or suggestions, feel free to reach out:
 
 - 📧 Email: [yasirmehboob.dev@example.com]
-- 🐦 Instagram: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- 🐦 Instagram: [@your-twitter-handle](https://www.instagram.com/xrexplained/)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yasir-mehboob-56310a288/)
 
 ---
 
 Happy coding! 🚀
 ```
-
-Replace the placeholders such as `[link-to-live-demo]`, `[link-to-source-code]`, `[Project Title 2]`, `[Project Title 3]`, `[your-email@example.com]`, `[@your-twitter-handle](https://twitter.com/your-twitter-handle)`, and `[Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)` with the actual links and information relevant to your projects and contact details. This template should give your repository a clean and professional look.
